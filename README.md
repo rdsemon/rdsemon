@@ -1,14 +1,25 @@
+![LinkedIn Background](https://media.licdn.com/dms/image/D4D16AQ.../background-photo.jpg)
 
 # 💫 Hi 👋, I'm Md Emon
-**Self-Taught Full Stack Developer**
 
-Email Me 👉 ✉️ **rdsemons@gmail.com** For Collaboration/Project or Anything Else. 😊😊 <br>
+🚀 Full Stack Developer | Self-Taught <br>
+
+💼 Actively looking for Junior / Full Stack Developer roles <br>
+
+📧 Email: **rdsemons@gmail.com**  <br>
+💡 Open to collaborations, freelance work & exciting projects <br>
+
+👨‍💻 About Me
+
+- 🔭 Working on: Real-world web applications  <br>
+- 👯 Collaborating on: Web dev projects  <br>
+- 🤝 Help with: Backend & system design  <br>
+- 🌱 Learning: Full-stack development (Self-taught)  <br>
+- 💬 Ask me about: JavaScript, APIs, frontend  <br>
+- ⚡ Fun fact: I turn ideas into real apps 🚀
 
 
-🔭 Working on: Real-world web applications  <br>👯 Collaborating on: Web dev projects  <br>🤝 Help with: Backend & system design  <br>🌱 Learning: Full-stack development (Self-taught)  <br>💬 Ask me about: JavaScript, APIs, frontend  <br>⚡ Fun fact: I turn ideas into real apps 🚀
-
-
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rds.emon.2024) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emonrds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdemon-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rdsemons@gmail.com) 
 
 # 💻 Tech Stack:
@@ -17,6 +28,15 @@ Email Me 👉 ✉️ **rdsemons@gmail.com** For Collaboration/Project or Anythin
 ![](https://github-readme-stats.vercel.app/api?username=rdsemon&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rdsemon&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdsemon&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <a href="https://github.com/rdsemon/snake-game">
+    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Game Demo" />
+  </a>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rdsemon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
