@@ -1,4 +1,4 @@
-![LinkedIn Background](https://media.licdn.com/dms/image/D4D16AQ.../background-photo.jpg)
+![LinkedIn Background](https://github.com/rdsemon/rdsemon/blob/main/Linkedin%20banner%202.0%20(1).jpg)
 
 # 💫 Hi 👋, I'm Md Emon
 
