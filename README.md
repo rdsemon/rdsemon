@@ -28,8 +28,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rdsemon&theme=dark&cache_seconds=86400)
 ![](https://github-readme-stats.vercel.app/api?username=rdsemon&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdsemon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdsemon&" alt="rdsemon" /></p>
+
 
 
 <!-- Snake Game Repo View -->
